@@ -1,3 +1,3 @@
 # Curso-de-C
-Mi forma en la que estoy aprendiendo C 09/03/2022
+Mi forma en la que estoy aprendiendo C 04/03/2022
 Esta sera mi linea en la que veran como estoy aprendiendo C como un noob de la programacion, escalando y haciendo ejercicios cada vez mas complejos
