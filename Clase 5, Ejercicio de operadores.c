@@ -4,7 +4,8 @@ int main(){
 	int a,b,c,d,e,f;
 	
 	printf("Ingresa dos numeros :");
-	scanf("%i %i",&a,&b);
+	scanf("%i %i",&a,&b);		//De esta forma podemos hacer que el scanf pueda leer mas datos en vez de usar dos o mas scanf
+					
 	
 	c = a + b;
 	printf("El resultado sumado es: %i \n",c);
